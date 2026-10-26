@@ -1,0 +1,7 @@
+# removing all c/c++ build artifacts & binaries
+*.o
+*.obj
+*.out
+bin/
+build/
+
